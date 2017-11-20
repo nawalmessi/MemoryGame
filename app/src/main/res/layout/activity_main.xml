@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <data />
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="8dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+
+
+        >
+
+        <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+            <LinearLayout style="@style/LinearlayoutStyle">
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image1"
+                        style="@style/ImageStyle"
+                        android:tag="0" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image2"
+                        style="@style/ImageStyle"
+                        android:tag="1" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image3"
+                        style="@style/ImageStyle"
+                        android:tag="2" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image4"
+                        style="@style/ImageStyle"
+                        android:tag="3" />
+                </android.support.v7.widget.CardView>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+            <LinearLayout style="@style/LinearlayoutStyle">
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image5"
+                        style="@style/ImageStyle"
+                        android:tag="4" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image6"
+                        style="@style/ImageStyle"
+                        android:tag="5" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image7"
+                        style="@style/ImageStyle"
+                        android:tag="6" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image8"
+                        style="@style/ImageStyle"
+                        android:tag="7" />
+                </android.support.v7.widget.CardView>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+            <LinearLayout style="@style/LinearlayoutStyle">
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image9"
+                        style="@style/ImageStyle"
+                        android:tag="8" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image10"
+                        style="@style/ImageStyle"
+                        android:tag="9" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image11"
+                        style="@style/ImageStyle"
+                        android:tag="10" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image12"
+                        style="@style/ImageStyle"
+                        android:tag="11" />
+                </android.support.v7.widget.CardView>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+            <LinearLayout style="@style/LinearlayoutStyle">
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image13"
+                        style="@style/ImageStyle"
+                        android:tag="12" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image14"
+                        style="@style/ImageStyle"
+                        android:tag="13" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image15"
+                        style="@style/ImageStyle"
+                        android:tag="14" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image16"
+                        style="@style/ImageStyle"
+                        android:tag="15" />
+                </android.support.v7.widget.CardView>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+            <LinearLayout style="@style/LinearlayoutStyle">
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image17"
+                        style="@style/ImageStyle"
+                        android:tag="16" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image18"
+                        style="@style/ImageStyle"
+                        android:tag="17" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image19"
+                        style="@style/ImageStyle"
+                        android:tag="18" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image20"
+                        style="@style/ImageStyle"
+                        android:tag="19" />
+                </android.support.v7.widget.CardView>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+            <LinearLayout style="@style/LinearlayoutStyle">
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image21"
+                        style="@style/ImageStyle"
+                        android:tag="20" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image22"
+                        style="@style/ImageStyle"
+                        android:tag="21" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image23"
+                        style="@style/ImageStyle"
+                        android:tag="22" />
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView style="@style/CardViewStyle">
+
+                    <ImageView
+                        android:id="@+id/image24"
+                        style="@style/ImageStyle"
+                        android:tag="23" />
+                </android.support.v7.widget.CardView>
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <TextView
+            android:id="@+id/clock"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</layout>
